@@ -45,5 +45,8 @@ BlueLockZ is a 2.4 GHz RF signal generator/jammer designed using an Arduino UNO 
 ## 📁 File Structure
 
 ```plaintext
-├── BlueLockZ.ino        # Main Arduino sketch
-├── README.md            # This readme file
+├── ArduinoUnoJammer/
+│   ├── ArduinoJammer/
+│   │   ├── ArduinoJammer.ino    # Main Arduino sketch
+├── README.md                   # This readme file
+```
